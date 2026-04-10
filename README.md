@@ -20,4 +20,4 @@ Open the terminal.
 
 Compile the file: gcc filename.c -o output
 
-Run the program: ./output
+Run the program: .\output.exe
